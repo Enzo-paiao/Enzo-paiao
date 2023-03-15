@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enzo-paiao&show_icons=true&locale=en" alt="enzo-paiao" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enzo-paiao&" alt="enzo-paiao" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enzo-paiao&" alt="enzo-paiao" /> </p>
